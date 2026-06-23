@@ -11,5 +11,5 @@ Hi! I'm [John Aldrin Edullantes], an aspiring Software Engineer learning through
 | To-Do List    | Add/remove tasks via console       | ArrayLists, OOP basics         |
 
 ## About Me
-📍 Philippines | 💼 Open to Junior Java roles
-🔗 [LinkedIn](your-link) | 📧 your@email.com
+📍 Philippines | 💼 Open to Junior Software Engineering roles
+🔗 [LinkedIn](https://www.linkedin.com/in/john-aldrin-edullantes/) | 📧 edullantesjohnaldrin54@email.com
