@@ -1,4 +1,4 @@
-package Projects.BankAccount;
+package OOP.Encapsulation.BankAccount;
 
 public class Bank {
     private String name = "ALDRIN";

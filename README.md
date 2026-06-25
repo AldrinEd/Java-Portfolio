@@ -1,6 +1,6 @@
 # Java Beginner Projects
 
-Hi! I'm [John Aldrin Edullantes], an aspiring Software Engineer learning through hands-on projects.
+Hi! I'm John Aldrin Edullantes, an aspiring Software Engineer learning through hands-on projects.
 
 ## Projects
 
