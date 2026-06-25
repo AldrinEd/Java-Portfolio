@@ -1,4 +1,4 @@
-package Projects.BankAccount;
+package OOP.Encapsulation.BankAccount;
 
 import java.util.Scanner;
 
